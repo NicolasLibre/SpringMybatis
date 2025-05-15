@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\GitHub\SpringMyBatis\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1667482051.index
+\springmybatis\src\main\resources
